@@ -41,7 +41,7 @@
                 <version>2.11</version>
                 <configuration>
                     <skip>true</skip>
-                    <forkCount>0</forkCount>
+                    <useSystemClassLoader>false</useSystemClassLoader>
                 </configuration>
                 <executions>
                     <execution>
